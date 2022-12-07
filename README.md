@@ -1,3 +1,5 @@
+# hardhat-nft-fcc
+
 3 contracts
 
 1. Basic NFT(Using ERC721 Standard) ✅
@@ -8,4 +10,3 @@
 3. Dynamic SVG NFT (on-chain, Image will change based on some-parameters) ✅
    Pros: Data is on-chain, so no pinning
    Cons: Much more EXPENSIVE
-# hardhat-nft-fcc
